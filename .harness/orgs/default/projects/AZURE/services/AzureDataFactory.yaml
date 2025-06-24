@@ -1,0 +1,5 @@
+service:
+  name: AzureDataFactory
+  identifier: AzureDataFactory
+  orgIdentifier: default
+  projectIdentifier: AZURE
