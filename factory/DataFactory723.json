@@ -5,7 +5,7 @@
 			"PipelineBillingEnabled": "false",
 			"factoryStagingLSReferenceName": "AzureBlobStorage1",
 			"factoryStagingLSType": "LinkedServiceReference",
-			"PolicyValidationEnabled": "true"
+			"PolicyValidationEnabled": "false"
 		}
 	},
 	"location": "eastus",
