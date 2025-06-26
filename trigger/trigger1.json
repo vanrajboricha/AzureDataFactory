@@ -7,9 +7,10 @@
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
-				"frequency": "Minute",
+				"frequency": "Day",
 				"interval": 15,
 				"startTime": "2025-06-27T08:17:00",
+				"endTime": "2025-06-28T08:18:05",
 				"timeZone": "India Standard Time"
 			}
 		}
